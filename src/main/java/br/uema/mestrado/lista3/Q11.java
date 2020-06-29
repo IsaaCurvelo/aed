@@ -10,7 +10,7 @@ public class Q11 {
     if (n < 0) {
       return 'N';
     }
-    return 'þ';
+    return '@';
   }
 
   public static void main(String[] args) {
